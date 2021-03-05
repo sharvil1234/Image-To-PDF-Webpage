@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+canvas{
+    box-shadow: 1px 1px 38px red;
+    margin-top: 3pc
+}
+
+.container{
+    margin-top: 60px;
+}
+
+#div_1{
+    margin-top: 20px;
+}
